@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import tkinter as tk
 from tkinter import messagebox
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-#oi
+
 root = tk.Tk()
 root.title('Gráfico Interativo')
 
